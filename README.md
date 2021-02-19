@@ -12,5 +12,5 @@
 - 🏢  There are communities that are actively involved freeCodeCamp-XiAn，GDG-XiAn
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=i7eo&count_private=true&show_icons=true&theme=nightowl" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=i7eo&count_private=true&show_icons=true&theme=nightowl&hide_title=true" />
 
