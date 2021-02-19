@@ -4,12 +4,13 @@
 - 😄 Pronouns: ...
 -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=i7eo&count_private=true&show_icons=true&theme=nightowl" />
-
-- 🔭 I’m currently working on cross-border e-commerce.
+- 🔭 I’m currently working on Cross-border Ecommerce.
 - 🌱 I’m currently learning typescript.
 - 🤔 I’m looking for some good open source projects
 - 💬 Ask me about Product customization, Online Photo Editing, Shopify&Shopify Plugin, Vue/React, Node...
 - 📫 How to reach me: [i7eo](https://i7eo.com/about/)
 - ⚡ There are communities that are actively involved freeCodeCamp-XiAn，GDG-XiAn
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=i7eo&count_private=true&show_icons=true&theme=nightowl" />
 
