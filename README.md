@@ -57,7 +57,7 @@ I'm [i7eo](https://github.com/i7eo)! I'm a software engineer 👨‍💻 who is 
 
 ## Stats&Trophy
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=i7eo&show_icons=true&theme=nightowl&hide_title=true" style="width: 58%" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=i7eo&show_icons=true&theme=nightowl&hide_title=true" style="width: 57%" />
 
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=i7eo&column=4&margin-w=6&margin-h=6&theme=dracula" style="width: 38%" />
 
