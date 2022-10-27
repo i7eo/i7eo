@@ -21,7 +21,7 @@ I'm [i7eo](https://github.com/i7eo)! I'm a software engineer 👨‍💻 who is 
 - 📒 BLOG: https://i7eo.com
 - 📫 EMAIL: admin@i7eo.com
 
-## Languages&Tool I use
+## Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -55,7 +55,7 @@ I'm [i7eo](https://github.com/i7eo)! I'm a software engineer 👨‍💻 who is 
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-## Stats&Trophy
+## Stats & Trophy
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=i7eo&show_icons=true&theme=nightowl&hide_title=true" style="width: 57%" />
 
