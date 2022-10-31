@@ -5,6 +5,8 @@ I'm [i7eo](https://github.com/i7eo)! I'm a software engineer 👨‍💻 who is 
 - 💼 I used to work in the cross-border e-commerce industry and am currently committed to enterprise digital construction
 - 🧑‍🤝‍🧑 The communities I'm involved in are `freeCodeCamp-XiAn`, `GDG-XiAn`
 - 🔎 You can find me via [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/__i7eo) and [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:admin@i7eo.com)
+- 📒 BLOG: https://i7eo.com
+- 📫 EMAIL: admin@i7eo.com
 
 <!-- You are the ![visitors](https://visitor-badge.laobi.icu/badge?page_id=i7eo) guy to come here 🎉 ->
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaronzz) -->
@@ -14,12 +16,14 @@ I'm [i7eo](https://github.com/i7eo)! I'm a software engineer 👨‍💻 who is 
 <p align="center">
 <img src="https://profile-counter.glitch.me/i7eo/count.svg" alt="Visiter count" />
 </p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=i7eo&show_icons=true&theme=nightowl&hide_title=true" style="width: 52%" />
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=i7eo&column=4&margin-w=6&margin-h=6&theme=dracula" style="width: 35%" />
+## Activity
+
+<p justify-content="center">
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=i7eo&theme=react-dark&custom_title=Contribution%20Graph">
+</p>
 -->
-
-## About
-
-- 📒 BLOG: https://i7eo.com
-- 📫 EMAIL: admin@i7eo.com
 
 ## Languages & Tools
 
@@ -55,11 +59,15 @@ I'm [i7eo](https://github.com/i7eo)! I'm a software engineer 👨‍💻 who is 
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-## Stats & Trophy
+## Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=i7eo&show_icons=true&theme=nightowl&hide_title=true" style="width: 52%" />
+<a href="https://github.com/i7eo">
+  <img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=i7eo&theme=nightowl&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
+</a>
 
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=i7eo&column=4&margin-w=6&margin-h=6&theme=dracula" style="width: 35%" />
+<a href="https://github.com/i7eo">
+  <img align="center" width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=i7eo&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
 
 
 
