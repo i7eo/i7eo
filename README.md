@@ -1,6 +1,6 @@
-# ℋℯ𝓁𝓁ℴ! <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" width="30px" /> 
+# ℋℯ𝓁𝓁ℴ <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" width="30px" /> 
 
-I'm [i7eo](https://github.com/i7eo)! I'm a software engineer 👨‍💻 who is passionate about open source.
+I'm [i7eo](https://github.com/i7eo). I'm a software engineer 👨‍💻 who is passionate about open source.
 
 - 💼 I used to work in the cross-border e-commerce industry and currently committed to enterprise digital construction
 - 🧑‍🤝‍🧑 The communities I'm involved in are `freeCodeCamp-XiAn`, `GDG-XiAn`
