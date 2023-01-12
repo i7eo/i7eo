@@ -2,10 +2,10 @@
 
 I'm [i7eo](https://github.com/i7eo). I'm a software engineer 👨‍💻 who is passionate about open source.
 
-- 💼 I used to work in the cross-border e-commerce industry and currently committed to enterprise digital construction
-- 🧑‍🤝‍🧑 The communities I'm involved in are `freeCodeCamp-XiAn`, `GDG-XiAn`
-- 🔎 You can find me via [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/__i7eo) and [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:admin@i7eo.com)
-- 📒 My blog: https://i7eo.com
+- 💼 I used to work in the cross-border e-commerce industry and currently committed to enterprise digital construction.
+- 🧑‍🤝‍🧑 The communities I'm involved in are `freeCodeCamp-XiAn`, `GDG-XiAn`.
+- 🔎 You can find me via [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/__i7eo) and [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:admin@i7eo.com).
+- 📒 My blog: https://i7eo.com.
 
 <!-- You are the ![visitors](https://visitor-badge.laobi.icu/badge?page_id=i7eo) guy to come here 🎉 ->
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=yaronzz) -->
