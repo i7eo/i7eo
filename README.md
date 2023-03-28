@@ -67,7 +67,7 @@ I'm [i7eo](https://github.com/i7eo). I'm a software engineer 👨‍💻 who is 
 </a>
 
 <a href="https://github.com/i7eo">
-  <img align="center" width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=i7eo&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
+  <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=i7eo&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" />
 </a>
 
 
