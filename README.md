@@ -1,5 +1,5 @@
 <!-- # Hi <img src="https://github.com/i7eo/pictures/blob/master/wave.gif" alt="hello-wave" width="36px" /> -->
-# ℋℯ𝓁𝓁ℴ <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" width="30px" />
+# ℋℯ𝓁𝓁ℴ <img src="https://moon-svg.minung.dev/moon.svg?theme=ray" alt="moon.svg" width="30px"/>
 
 I'm [i7eo](https://github.com/i7eo). I'm a software engineer 👨‍💻 who is passionate about open source.
 
